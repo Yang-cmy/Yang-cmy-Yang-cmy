@@ -1,6 +1,7 @@
 <p align="center">
   <!-- 1. แบนเนอร์หัวข้อโปรไฟล์ -->
-  <img src="https://raw.githubusercontent.com/Yang-cmy/Yang-cmy/main/header-banner.png" alt="Banner" width="100%" />
+  <img src="https://<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/10d57ba5-ba15-48fa-b973-e8950a7ceae0" />
+/Yang-cmy/Yang-cmy/main/header-banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
