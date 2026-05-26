@@ -12,9 +12,6 @@
   Fullstack Developer • Mobile • UI/UX Explorer
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/29/ca/c6/29cac66b6fd227a407ba1bbd0469a38c.jpg" alt="Yang-cmy Geeky Cat Banner" width="100%" />
-</p>
 <!--ข้อความภาษา-->
 <p align="center">
   <a href="https://git.io/typing-svg">
