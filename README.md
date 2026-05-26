@@ -69,7 +69,10 @@ I am a **Computer Science student** who loves crafting solid code and sleek user
   </a>
 </p>
   <!-- การ์ดภาษาที่ใช้เขียนโค้ดสีดำ-แดง -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-cmy&layout=compact&bg_color=121214&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true" alt="Top Languages" width="48%" />
+  <p align="center">
+  <a href="https://github.com/Yang-cmy">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yang-cmy&layout=compact&bg_color=121214&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
