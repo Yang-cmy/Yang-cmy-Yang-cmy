@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 1. แบนเนอร์หัวโปรไฟล์รูปแมวดำแว่นแดงสุดเท่ (ปรับเปลี่ยน URL ภาพเมื่ออัปโหลดขึ้น GitHub) -->
-  <img src="https://i.pinimg.com/originals/5e/da/fe/5edafee2ca3a1582d29689db5ad2705a.gif" alt="Yang-cmy Geeky Cat Banner" width="50%" />
+  <img src="https://i.pinimg.com/736x/98/37/64/983764995f06df4b7c38ecbfb3f9645b.jpg" alt="Yang-cmy Geeky Cat Banner" width="50%" />
 </p>
 
 <p align="center">
