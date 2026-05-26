@@ -63,7 +63,11 @@ I am a **Computer Science student** who loves crafting solid code and sleek user
 
 <p align="center">
   <!-- การ์ดแสดงสถิติที่เปลี่ยนธีมเป็นสีดำ-แดง เพื่อความสมบูรณ์แบบ -->
-  ![](https://github-readme-stats.shion.dev/api?username=Yang-cmy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <p align="center">
+  <a href="https://github.com/Yang-cmy">
+    <img src="https://github-readme-stats.shion.dev/api?username=Yang-cmy&bg_color=121214&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true" alt="Yang-cmy's GitHub Stats" />
+  </a>
+</p>
   <!-- การ์ดภาษาที่ใช้เขียนโค้ดสีดำ-แดง -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-cmy&layout=compact&bg_color=121214&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true" alt="Top Languages" width="48%" />
 </p>
