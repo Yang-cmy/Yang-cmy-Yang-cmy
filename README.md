@@ -26,9 +26,7 @@
 I am a **Computer Science student** who loves crafting solid code and sleek user interfaces, with a special passion for quirky and clean designs. Like a cat with glasses, I enjoy looking deep into problems and finding elegant solutions! 🐾
 
 * 🐈‍⬛ **Current focus:** Building full-stack web and mobile applications with optimal performance.
-* 🔴 **Main project:** [Upon](https://github.com/Yang-cmy) - An exciting monorepo featuring NestJS & React Native.
-* 👓 **Special interests:** Clean code architecture, UX/UI details, and minimalist aesthetics.
-* 🔺 **Fun fact:** I write code faster when fueled by coffee and lo-fi beats.
+* 🔴 **Main project:** [Upon](https://github.com/Yang-cmy) 
 
 ---
 
