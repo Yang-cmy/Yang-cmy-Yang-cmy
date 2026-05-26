@@ -13,9 +13,12 @@
 </p>
 
 <p align="center">
-  <!-- 2. ข้อความพิมพ์ดีดวิ่งสีแดงนีออนเพื่อความโฉบเฉี่ยว -->
+  <img src="https://i.pinimg.com/736x/29/ca/c6/29cac66b6fd227a407ba1bbd0469a38c.jpg" alt="Yang-cmy Geeky Cat Banner" width="100%" />
+</p>
+<!--ข้อความภาษา-->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=Building+neat+ideas;Solving+complex+bugs;Coffee.Code.Repeat.+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=Building+neat+ideas;Solving+complex+bugs;Coffee.Code.Repeat.+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
