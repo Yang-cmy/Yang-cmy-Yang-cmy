@@ -63,7 +63,7 @@ I am a **Computer Science student** who loves crafting solid code and sleek user
 
 <p align="center">
   <!-- การ์ดแสดงสถิติที่เปลี่ยนธีมเป็นสีดำ-แดง เพื่อความสมบูรณ์แบบ -->
-  [![Yang-cmy's GitHub Streak](https://streak-stats.demolab.com?user=Yang-cmy&theme=tokyonight&background=121214&ring=ef4444&fire=ef4444&stroke=00000000)](https://github.com/Yang-cmy)
+  ![](https://github-readme-stats.shion.dev/api?username=Yang-cmy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   <!-- การ์ดภาษาที่ใช้เขียนโค้ดสีดำ-แดง -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-cmy&layout=compact&bg_color=121214&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true" alt="Top Languages" width="48%" />
 </p>
@@ -83,3 +83,17 @@ I am a **Computer Science student** who loves crafting solid code and sleek user
     <img src="https://img.shields.io/badge/LINKEDIN-121214?style=for-the-badge&logo=linkedin&logoColor=EF4444" alt="LinkedIn" />
   </a>
 </p>
+
+<!--
+# 💫 About Me:
+-
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yang-cmy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Yang-cmy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yang-cmy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Yang-cmy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
